@@ -1,6 +1,6 @@
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Adam, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
+  <samp>My name is Rustam, I'm from Kyrghyzstan! <br> <br> I am Full Stack JavaScript developer. 😎
   </samp>
   <br> <br>
 </p>
@@ -8,11 +8,11 @@
 <h2 align="center">💬 Reach me on</h2>
 
 <p align="center" align='right'>
-  <a target="_blank" href="mailto:adam22185515@gmail.com"><img
+  <a target="_blank" href="mailto:fantomxg6@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/balkoev"><img
+  <a target="_blank" href="https://t.me/rus_fl"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.youtube.com/channel/UC4mIMZhNbSFzl38eE_xGJcA"><img
+  <a target="_blank" href="https://www.youtube.com"><img
     src="https://img.shields.io/youtube/channel/subscribers/UC4mIMZhNbSFzl38eE_xGJcA?style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
